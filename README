@@ -1,0 +1,10 @@
+# Author: Ruben Calderon
+# CruzID: 1698961
+# Class: 12B/M
+# Date: April 22, 2019
+# Description: Serves as table of contents for the project. 
+# File Name: README
+
+1. README - Table of Contents
+2. Makefile - Compiles and archives an executable JAR file of Queens.java
+3. Queens.java - Returns the number of solutions to n-queens. Option: [-v] prints out every solution as it finds them.
